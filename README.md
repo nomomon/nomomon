@@ -5,8 +5,9 @@
 [![Telegram Channel Badge](https://img.shields.io/badge/telegram-channel-2081c1)](https://t.me/pigeorge)
 
 
-### Hi there, I'm Mansur 👋
-
+## Hi there 👋
+I'm Mansur, amatuer **Machine Learning Engineer**.
+<!-- I develop ... -->
 
 <a href="https://github.com/nomomon">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomomon&hide=html,css&lbg_color=fefefe&title_color=121212&text_color=353535&langs_count=3" />
