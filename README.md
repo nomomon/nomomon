@@ -1,4 +1,9 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nomomon.nomomon)
+[![Personal Website](https://img.shields.io/badge/personal-website-5678f3)](https://nomomon.github.io/)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-profile-5678f3)](https://www.linkedin.com/in/nomomon)
+[![Kaggle Badge](https://img.shields.io/badge/kaggle-profile-5678f3)](https://www.kaggle.com/mononom)
+[![Telegram Channel Badge](https://img.shields.io/badge/telegram-channel-5678f3)](https://t.me/pigeorge)
+
 
 ### Hi there, I'm Mansur 👋
 
@@ -10,8 +15,3 @@
 <a href="https://github.com/nomomon">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=nomomon&show_icons=true&line_height=27&count_private=true&bg_color=fefefe&title_color=121212&text_color=353535" alt="Mansur's GitHub Stats" />
 </a>
-  
-[Personal Website](https://nomomon.github.io/) /
-[LinkedIn](https://www.linkedin.com/in/nomomon) /
-[Kaggle](https://www.kaggle.com/mononom) /
-[Telegram Channel](https://t.me/pigeorge)
