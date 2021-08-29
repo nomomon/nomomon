@@ -26,7 +26,7 @@ I'm Mansur, amatuer **Machine Learning Engineer**.
 <p align="center">
   
 ![](https://img.shields.io/badge/Framework-Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=white)
-![](https://img.shields.io/badge/Framework-Keras-informational?style=flat&logo=Keras&logoColor=white)
+![](https://img.shields.io/badge/Library-Keras-informational?style=flat&logo=Keras&logoColor=white)
 ![](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=Pandas&logoColor=white)
 ![](https://img.shields.io/badge/Library-Numpy-informational?style=flat&logo=Numpy&logoColor=white)
 ![](https://img.shields.io/badge/Library-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white)
