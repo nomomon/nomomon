@@ -22,16 +22,27 @@ I'm Mansur, amatuer **Machine Learning Engineer**.
   
 ## 🛠 Skills
 
-<p align="center">
+- **ML**
   
-![](https://img.shields.io/badge/Framework-Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=white)
-![](https://img.shields.io/badge/Library-Keras-informational?style=flat&logo=Keras&logoColor=white)
-![](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=Pandas&logoColor=white)
-![](https://img.shields.io/badge/Library-Numpy-informational?style=flat&logo=Numpy&logoColor=white)
-![](https://img.shields.io/badge/Library-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white)
-![](https://img.shields.io/badge/Library-Seaborn-informational?style=flat&logo=Seaborn&logoColor=white)
-![](https://img.shields.io/badge/Library-PIL-informational?style=flat&logo=PIL&logoColor=white)
-![](https://img.shields.io/badge/Library-Catboost-informational?style=flat&logo=catboost&logoColor=white)
-![](https://img.shields.io/badge/Library-Scikit-learn-informational?style=flat&logo=Scikit-learn&logoColor=white)
+  ![](https://img.shields.io/badge/Framework-Tensorflow-fe9101?style=flat&logo=Tensorflow&logoColor=white)
+  ![](https://img.shields.io/badge/Library-Keras-d00101?style=flat&logo=Keras&logoColor=white)
+  ![](https://img.shields.io/badge/Library-Scikit-3399cc?style=flat&logo=Scikit-learn&logoColor=white)
+  ![](https://img.shields.io/badge/Library-Catboost-f00?style=flat&logoColor=white&logo=CatBoost)
 
-</p>
+  
+- **Data & Visualization**
+
+  ![](https://img.shields.io/badge/Library-Pandas-130753?style=flat&logo=Pandas&logoColor=white)
+  ![](https://img.shields.io/badge/Library-Numpy-4cabcf?style=flat&logo=Numpy&logoColor=white)
+  ![](https://img.shields.io/badge/Library-Matplotlib-12557c?style=flat&logo=matplotlib&logoColor=white)
+  ![](https://img.shields.io/badge/Library-Seaborn-7db0bb?style=flat&logo=Seaborn&logoColor=white)
+
+<details>
+  <summary><b>Other</b></summary><br>
+  
+  ![](https://img.shields.io/badge/Library-PIL-a08166?style=flat&logo=PIL&logoColor=white)
+  
+  
+  
+</details> 
+
