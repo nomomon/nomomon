@@ -1,6 +1,7 @@
 [![Personal Website](https://img.shields.io/badge/personal-website-2081c1)](https://nomomon.github.io/)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-profile-2081c1)](https://www.linkedin.com/in/nomomon)
 [![Kaggle Badge](https://img.shields.io/badge/kaggle-profile-2081c1)](https://www.kaggle.com/mononom)
+[![Hugging face Badge](https://img.shields.io/badge/huggingface-profile-2081c1)](https://huggingface.co/nomomon)
 [![Telegram Channel Badge](https://img.shields.io/badge/telegram-channel-2081c1)](https://t.me/pigeorge)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nomomon.nomomon)
 
