@@ -9,6 +9,11 @@
 I'm Mansur, amatuer **Machine Learning Engineer**.
 <!-- I develop ... -->
 
+Right now, I am getting a BSc Degree in Artificial Intelligence at the University of Groningen.
+
+I perform magic tricks for over 8 years. I like anime.
+
+
 ## 📈 GitHub Stats
 
 <p align="center">
