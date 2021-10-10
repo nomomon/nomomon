@@ -15,7 +15,7 @@ I perform magic tricks for over 8 years. I like binge watching anime.
 
 <p align="center">
   <a href="https://github.com/nomomon">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomomon&hide=html,css&lbg_color=fefefe&title_color=121212&text_color=353535&langs_count=3" />
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomomon&hide=css,jupyter%20notebook&lbg_color=fefefe&title_color=121212&text_color=353535&langs_count=3" />
   </a>
 
   <a href="https://github.com/nomomon">
