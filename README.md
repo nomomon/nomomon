@@ -6,7 +6,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nomomon.nomomon)
 
 ## Hi there 👋
-I'm Mansur, **Machine Learning Engineer**. I develop ML models and deploy them to PWA like apps. Right now, I am getting a BSc Degree in Artificial Intelligence at the University of Groningen.
+I'm Mansur, **Machine Learning Engineer**. I develop ML models and deploy them to PWAs. I like to find and make interesting applications of existing machine learning models. Right now, I am getting a BSc Degree in Artificial Intelligence at the University of Groningen.
 
 I perform magic tricks for over 8 years. I like binge watching anime.
 
