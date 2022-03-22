@@ -8,9 +8,6 @@
 ## Hi there 👋
 I'm Mansur, **Data Scientist**. I develop ML models and deploy them to PWAs. I like to find and make interesting applications of existing machine learning models. Right now, I am getting a **BSc Degree in Artificial Intelligence** at the University of Groningen.
 
-I perform magic tricks for over 8 years. I like binge watching anime.
-
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -22,30 +19,3 @@ I perform magic tricks for over 8 years. I like binge watching anime.
     <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=nomomon&show_icons=true&line_height=27&count_private=true&bg_color=fefefe&title_color=121212&text_color=353535" alt="Mansur's GitHub Stats" />
   </a>
 </p>
-  
-## 🛠 Skills
-
-- **ML**
-  
-  ![](https://img.shields.io/badge/Framework-Tensorflow-fe9101?style=flat&logo=Tensorflow&logoColor=white)
-  ![](https://img.shields.io/badge/Library-Keras-d00101?style=flat&logo=Keras&logoColor=white)
-  ![](https://img.shields.io/badge/Library-Scikit-3399cc?style=flat&logo=Scikit-learn&logoColor=white)
-  ![](https://img.shields.io/badge/Library-Catboost-f00?style=flat&logoColor=white&logo=CatBoost)
-
-  
-- **Data & Visualization**
-
-  ![](https://img.shields.io/badge/Library-Pandas-130753?style=flat&logo=Pandas&logoColor=white)
-  ![](https://img.shields.io/badge/Library-Numpy-4cabcf?style=flat&logo=Numpy&logoColor=white)
-  ![](https://img.shields.io/badge/Library-Matplotlib-12557c?style=flat&logo=matplotlib&logoColor=white)
-  ![](https://img.shields.io/badge/Library-Seaborn-7db0bb?style=flat&logo=Seaborn&logoColor=white)
-
-<details>
-  <summary><b>Other</b></summary><br>
-  
-  ![](https://img.shields.io/badge/Library-PIL-a08166?style=flat&logo=PIL&logoColor=white)
-  
-  
-  
-</details> 
-
