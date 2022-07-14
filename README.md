@@ -1,21 +1,27 @@
-[![Personal Website](https://img.shields.io/badge/personal-website-2081c1)](https://nomomon.github.io/)
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-profile-2081c1)](https://www.linkedin.com/in/nomomon)
-[![Kaggle Badge](https://img.shields.io/badge/kaggle-profile-2081c1)](https://www.kaggle.com/mononom)
-[![Hugging face Badge](https://img.shields.io/badge/huggingface-profile-2081c1)](https://huggingface.co/nomomon)
-[![Telegram Channel Badge](https://img.shields.io/badge/telegram-channel-2081c1)](https://t.me/pigeorge)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nomomon.nomomon)
 
-## Hi there 👋
-I'm Mansur, **Data Scientist**. I develop ML models and deploy them to PWAs. I like to find and make interesting applications of existing machine learning models. Right now, I am getting a **BSc Degree in Artificial Intelligence** at the University of Groningen.
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=nomomon&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomomon&layout=compact&hide=jupyter%20notebook" />
+</div>
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/nomomon">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomomon&hide=css,jupyter%20notebook&lbg_color=fefefe&title_color=121212&text_color=353535&langs_count=3" />
-  </a>
+## Backgroud
 
-  <a href="https://github.com/nomomon">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=nomomon&show_icons=true&line_height=27&count_private=true&bg_color=fefefe&title_color=121212&text_color=353535" alt="Mansur's GitHub Stats" />
-  </a>
-</p>
+- I am a Data Scientist.
+- BSc Artificial Intelligence from [University of Groningen](https://www.rug.nl/bachelors/artificial-intelligence/?lang=en)
+
+<!--- - I develop machine learning models and deploy them to PWAs. --->
+
+## Current projects
+
+- Currently, I am [improving](https://github.com/nomomon/yandex-data-science) my data science skills by making projects at the [Y.Practicum](https://practicum.com/data-scientist/) bootcamp. There I am learning how to preprocess and analyze data, perform statistical analysis and prove hypothesis and use machine learning to improve business metrics.
+- My recent project was [predicting energies of molecules](https://github.com/nomomon/molecule-energy-prediction) using feed-forward neural networkds. As input data, I was given the spatial arrangement of atoms in a molecule. In this project I preprocessed the data, converted values into right units, framed the problem as a constraint satisfaction problem (CSP) to get the required data and then trained a neural network with the suiting hyperparameters. I am glad that I got to do this project as it involed a lot of research into chemistry, how atoms are bonding, properties of electrons and energiese of molecules.
+
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/nomomon)
+- [Personal website](https://nomomon.github.io/)
+- [Kaggle](https://www.kaggle.com/mononom)
+- [Hugging face](https://huggingface.co/nomomon)
+- [Telegram channel](https://t.me/pigeorge)
