@@ -11,3 +11,5 @@
 - Ambassador of [Yandex Practicum DS track](https://practicum.yandex.ru/data-scientist/)
 
 <!-- ## Current projects -->
+
+<a href="https://stackoverflow.com/users/15930948/mansur"><img src="https://stackoverflow.com/users/flair/15930948.png?theme=light" width="208" height="58" alt="profile for Mansur at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Mansur at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
